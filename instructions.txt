@@ -1,0 +1,3 @@
+forward 60
+right_turn 90
+forward 60
