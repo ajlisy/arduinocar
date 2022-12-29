@@ -1,3 +1,4 @@
-forward 60
-right_turn 90
-forward 60
+go_forward 1000
+turn_degrees_right 180
+go_backward 1000
+wait 5000
