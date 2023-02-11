@@ -1,2 +1,21 @@
 go_forward 1000
-wait 5000
+turn_degrees_left 10
+go_forward 250
+turn_	degrees_right 10
+go_forward 250
+turn_degrees_left 10
+go_forward 250
+turn_	degrees_right 10
+go_forward 250
+turn_degrees_left 10
+go_forward 250
+turn_	degrees_right 10
+go_forward 250
+turn_degrees_left 10
+go_forward 250
+turn_	degrees_right 10
+go_forward 250
+
+wait 50000
+turn_degrees_right 1
+turn_degrees_left 1
