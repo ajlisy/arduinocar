@@ -1,4 +1,4 @@
-go_forward 1000
+go_forward 10000
 turn_degrees_left 10
 go_forward 250
 turn_degrees_right 10
