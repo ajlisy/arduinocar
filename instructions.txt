@@ -1,4 +1,4 @@
-go_forward 500
+go_forward 5000
 go_backward 500
 wait 1000
 go_forward 500
